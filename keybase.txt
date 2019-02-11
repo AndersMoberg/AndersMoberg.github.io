@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mobes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://a-moberg.com
+  * I am mobes (https://keybase.io/mobes) on keybase.
+  * I have a public key with fingerprint 7BB8 158C FA55 FF25 134C  DA9D A212 0242 A1DA 849B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018ee723068f7f16f672ed1e3b46a31a926ac87be50bc5f0e7cef5a723439812b60a",
+            "fingerprint": "7bb8158cfa55ff25134cda9da2120242a1da849b",
+            "host": "keybase.io",
+            "key_id": "a2120242a1da849b",
+            "kid": "01018ee723068f7f16f672ed1e3b46a31a926ac87be50bc5f0e7cef5a723439812b60a",
+            "uid": "c813a71aa9e3e0f7be49ac3542b45e19",
+            "username": "mobes"
+        },
+        "service": {
+            "hostname": "a-moberg.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486492693,
+    "expire_in": 157680000,
+    "prev": "7e62fde419a5742f14cfebfcf505c6971b26ca53dcc9ce15a0416eba612c824a",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSFRBGN7VlJIKgy6g0uVoJrTJmXNmzmULKujKhg/dKWOZmTNHD6t7
+tj27WyZ2JaOIHlLMrKAs0owsHyofijZTKowKKrSoRIyuENkNkm5zpN56bF6G+f/v
+++b7P/7OMameDO/StwNHdi68+8zbfb027lnbMH5CpUBso0LwVwohNnyxMoM5sWDI
+MgS/IAIRaIypkiwqmqmaQDEVVWIGYDKBCpYB1iUFU00lDImEIlNkKmUmwpwBZV0D
+ElFELPgE0wqXsGgkaoVjXFYlRANIoyZGyDQlBGRIDawbWAKSKEEJAwNrUCecWGo7
+LoObI9hhhZbNa/wRHLb3D/x/9h0flqMakLEKMNaZzESTs6COqYygRCBiQHeBDouG
+cTnj6HKbMEeo8gm8lLAoc1N1x/jTxrNcQLSkkNrlnBiJ2jGb2mW8UxqLRfwuMVYR
+cZGbGAn+0QgSK2zwDDkhwaKOZYcFP+BIGrNcUQA1BfKRdNknsM0RK8qClotAqqKJ
+/LjfsISbPFMk02AQ6BipUDIBpCYjJjWRiKiiq4BICsVINijVKQMIixAojGAFSFST
+oBuJwzaGba4NuE9cwjUdqySMY/EoE6o6ksUjPN4MT3pairtcnoxRmX9XbkH7SM+p
++uaZh+TclJ9jt95fuX7F9utt9OuojaGp466MWVV94FdNfnt2Oln3a1C8lFW8vH1o
+yrXm3FldWxpfWtn1r3b3FK6GF/fu8Of7eie0LZ4zeH9v/81P93pPjI10TPuWNb/W
+OzlzOlkfGESZHxvUUEdNzuz9az8gb3zwRufQ4aJxie2dUtH+I95zXYk1o0fM/Rz4
+Qid2HQ/+TNJAz53GYwWTm46+zr/0vC+QelnsW+dL65tf9yNy8Na09/kvHt9LfbTh
+aV5fZcvM1pUtZ7oDzsNF3XDZgJpel118+eyS7/tAdejNpOnf322+en5GRdPD/l0X
+ck4PFdye19aYl9y2x3yf/qD5SevJ5G/1IEIt
+=bJLW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mobes
+
+==================================================================
