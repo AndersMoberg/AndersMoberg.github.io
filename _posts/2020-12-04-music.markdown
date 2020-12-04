@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "TAKE CONTROL: music library"
+date:   2020-12-04
+categories: take-control
+---
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap');
+
+    em {
+        font-family: 'Work Sans', sans-serif !important;
+        font-style: normal;
+        font-size: 1.4em;
+    }
+</style>
+<p><center><i>tl;dr: Purchase music, gather a music library. Build your own Spotify!!!</i></center></p>
+
+# WORK IN PROGRESS BLOGPOST
+
+<b>[Bandcamp friday](https://isitbandcampfriday.com/)</b> is upon us very soon (from the time of this writing). It's an excellent day to support artists by purchasing music! Though, I imagine a certain thought has occured to some..
+
+<em>I've purchased digital music, what do I do with it?</em>
+
+Let me get to that.. ever since the modern Internet took shape, streaming media became more and more common-place. It's allowed us to instantously access so much music for very cheap. So, what's the catch?
+
+<center>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">13 mil plays on Spotify equivalent to California minimum wage</p>&mdash; GROUNDISLAVA 🍄 (@Groundislava) <a href="https://twitter.com/Groundislava/status/1334220652086116354?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The average spotify user pays $120/yr. Artists receive $0.73 of that <a href="https://t.co/rZtwafSRL3">https://t.co/rZtwafSRL3</a></p>&mdash; Shubuuu (@shubutime) <a href="https://twitter.com/shubutime/status/1334274225440518145?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</center>
+
+If you've followed the conversation online, you'll know that artists have become incresingly disallusioned with platforms like Spotify and others, paying a very insignificent cut for every streamed song. (SOURCE)
+
+The current world's situation of COVID-19 pandemic is heightening this problem, where sources of revenue like performing in venues is not at all viable. And with the CEO of Spotify's recent comments which displays how he views music on the platform he owns (SOURCE), it feels clear that **most artists cannot live off the revenue from streaming services** and that this reality is unlikely to change. And it's unlikely to change precisely because **large companies own and dictacte the rules of play for these platforms** and **(smaller) artists generally don't have a say**.
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reminder that Spotify pays musicians in fractions of fractions of pennies because our work is cheap, not special, and not neccesary.<br><br>If you disagree, consider buying our work directly.</p>&mdash; Juniper🍁 (@June_LaLonde) <a href="https://twitter.com/June_LaLonde/status/1334038499587186693?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
+
+<em>Fair enough, what's the alternative?</em>
+
+The problem to solve is **getting artists reasonably paid for their music**. A simple way to solve that is to **just buy music digitally from artists..** 
+
+But in a situation where you've gathered a library of digital music files, you'd have to make sure you could access them where you listen to music, like your phone. Maybe you have tablet, or more then one computer, and you want the same music accessable all over. A lot of file transfers..
+
+<i>This is sounding like a lot of busy work..</i> 😣
+
+At this point, you might be inclined to go back to using apps like **Spotify**. After all, the convenience really is a big factor for why most of us still use streaming services. 
+
+<i>So is this the way things are...?</i>
+
+No!! There's a way where we can **be more ethical music listeners** while at the same time **not giving up on some conveniences of streaming**!
+
+<em>Music servers</em>
+
+A **music server** is, in short, software that handles your music library and adds the possiblity of playing it back remotely.
+
+This describes platforms like **Spotify** pretty well. In this scenario (simplification), **Spotify** runs the music server and populates it with music that they've gathered using licenses. We get access to it via the various **Spotify** music players.
+
+But by having defined **music server** as a general concept, comes the opportunity for alternatives.
+
+Yes, there are loads of other **music server** software! And what's more, I'd argue that **to get started with music servers are not very hard at all!**
+
+I'll get to some of the details and complications later.. but if what I'm describing here sounds interesting, I'll introduce the easiest way to get going with **start a music server of your own**.
+
+<em>Plex</em>
+
+Out of all **music server** software, **Plex** really is the easiest one to start up with. It's the one I'd recommend to anyone who want to start **taking control over their music streaming**.
+
+To give it a try, you'll need a computer with access to the media you intend to stream. Windows, Mac and Linux computers are all good. Go to the [**Plex** website](https://www.plex.tv/), create an account and **[download, install and start running the Plex Media Server software](https://www.plex.tv/apps-devices/#servers)**.
+
+The setup afterwards are fairly simple. Before long, you'll have setup an **library** that gets populated with music. With this now sorted, it will be possible to set up the related **Plex** app on your phone and tablet ([iOS](https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673) or [Android](https://play.google.com/store/apps/details?id=com.plexapp.android&hl=en_US&gl=US)) with your **Plex** account.. and your library should now be setup there as well!
+
+![Plex interface](https://www.plex.tv/wp-content/uploads/2018/05/image-music-library-1-1440x896.jpg)
+
+<p><center><i>something like this, yeah?</i></center></p>
+
+<i>So here we are..</i> You're accessing the music.. **your music library!** On multiple devices wirelessly, where you should be able to stream your music wherever you are, over mobile data! If your network could handle it, **you can even allow others access to your music server**.
+
+Do you get it? This is **exactly** the type of service that Spotify gives you! But made completely out of your own library! Gathered by your hand, purchased from artists in **100% a more sustainable way** then the subscription model will allow.
+
+As long as you use a **music servers**, the library will stay the same. Music won't just magically go away due to licenses. You own the music, you own the data. The ownership is **yours**. 
+
+<em>Plex, follow-up</em>
+
+It's key to say once again that I recommend **Plex** for anyone first starting off with hosting their own music server. There's certain things that you might've already noticed:
+
+ * The media server is only up as long as the software is on.
+ * Certain features like offline sync are behind a Plex subscription (Plex Pass).
+ * It's not fault-free software. Stuff like network connectivity can be, in some instances, a little fiddly.
+
+I'd still say that **Plex Pass** might be worth it for a test run, where you get certain features like **offline sync** and access to the [music-only Plexamp](https://plexamp.com/) that allows you to simulate something like **Spotify** more fully.. for cheaper then Spotify's monthly cost ($5 per month). 
+
+With **offline sync** in place, I think you can have a reasonable experience. Even when the server software is not turned on (as long as you've synced the music, heh).
+
+<em>Two layers deep</em>
+
+There are some truths that I've learned after having gotten into music servers:
+
+ * Depending on how far you take it, **it's going to be at the very least a little fiddly**.
+ * **It's not for everybody!** And that's ok. Music is important enough to me that I care about this. Most people might not put that emphasis on it.
+ * There's still a place for services like **Spotify** and **Soundcloud** when it comes to discoverability. It's hard to decide to purchase music before you've listened to it and know it's worth owning.
+
+TO BE WRITTEN
+
+<em>My setup!</em>
