@@ -4,12 +4,21 @@ title: Bandcamp Fridays
 permalink: /bandcamp/
 ---
 <style type="text/css">
-  img {
-    max-width: 65%;
+  @media screen and (min-width: 740px) {
+    p {
+      display: inline;
+    }
+    img {
+      max-width: 45%;
+      padding: 1%;
+    }
   }
+  
 </style>
 
-[![2021 February](https://ucarecdn.com/ec235dbf-77ed-428a-9daf-5bfbcbf1ed75/)](https://buymusic.club/list/mobesmobes-feb-5th-2021)
+[![2021 April](/assets/bcf/actual_april_21.png)](https://buymusic.club/list/mobesmobes-april-2nd-2021)
+
+[![2021 February](/assets/bcf/actual_february_21.png)](https://buymusic.club/list/mobesmobes-feb-5th-2021)
 
 [![2020 0ctober](/assets/bcf/actual_october.png)](https://buymusic.club/list/mobesmobes-october-2nd)
 
