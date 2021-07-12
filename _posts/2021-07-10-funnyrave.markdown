@@ -19,6 +19,7 @@ Part of the intro medley was made long ago for a mixtape that never came to be -
 **I will recommend the Twitch VOD with chat** for the optimal viewing experience. Seperated from the live reaction, the performance is lesser for it. In lieu of the VOD being removed in the future, I will reupload the parts seperately onto Mixcloud / Soundcloud.
 
 # Tracklist:
+
 ## Part 1: "Inheritance"
 - Intro medley
     - Jóhann Jóhannsson with Hildur Guðnadóttir & Robert Aiki Aubrey Lowe - End of Summer Part 3
@@ -35,6 +36,7 @@ Part of the intro medley was made long ago for a mixtape that never came to be -
 - o.h mobes - hallway (WIP)
 - Time Wharp - Yrlyf
 - Phonat - Phase to Face
+
 ## Part 2: "Control"
 - Gater - Malachite
 - gemi - frog dub
