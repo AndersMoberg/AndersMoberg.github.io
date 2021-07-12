@@ -12,9 +12,9 @@ categories: music
 
 
 # Notes from me
-I wanted to thank FUNNY RAVE staff (Jab, Six, Beatstar) for letting me on once again. In their last event, the artist **Viravax** had produced an set with a lot of ambient music. It caught my eyes (and ears), so huge special thanks to them for indirectly inspiring Part 1 of my performence. I got the courage to go all-in on ambient drone music.
+I wanted to thank FUNNY RAVE staff (Jab50yen, Six, Beatstar, WnderlandReject, and others) for letting me on once again. In their last event, the artist **Viravax** had produced an set with a lot of ambient music. It caught my eyes (and ears), so huge special thanks to them for indirectly inspiring Part 1 of my performence. I got the courage to go all-in on ambient drone music.
 
-Part of the intro medley was made long ago for a mixtape that never came to be - inspired by a friend of mine that went into a coma for a small time after an incident. It had an effect on me, and it wanted to express it somehow. Friend in question has recovered since, don't worry.
+Part of the intro medley was made long ago for a mixtape that never came to be - inspired by a friend of mine that went into a coma for a small time after an incident. It had an effect on me, and I wanted to express it somehow. Friend in question has recovered since.
 
 **I will recommend the Twitch VOD with chat** for the optimal viewing experience. Seperated from the live reaction, the performance is lesser for it. In lieu of the VOD being removed in the future, I will reupload the parts seperately onto Mixcloud / Soundcloud.
 
