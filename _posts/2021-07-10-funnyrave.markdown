@@ -51,5 +51,5 @@ Turn on subtitles to see Twitch chat messages! It's a little buggy at the time o
 - Sebastian - Love in Motion (Rustie remix)
 - Coda - what did you just say to me
 
-# Viz sources :
-To be written
+# Other media / source:
+Check back later!
