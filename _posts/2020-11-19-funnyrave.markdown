@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FUNNY RAVE performence"
+title:  "FUNNY RAVE: Halloween 2 performence"
 date:   2020-11-19
 categories: music
 ---
