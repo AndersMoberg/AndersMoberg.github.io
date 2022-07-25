@@ -41,7 +41,7 @@ layout: page
 </style>
 
 <ul id="info">
-    <li>🧰 <div>Software engineer in games and web with 7+ years of experience</div> 🧰</li>
+    <li>🧰 <div>Software engineer in games and web with 7+ years of professional experience</div> 🧰</li>
     <li>🗯 <div>Native Swedish speaker with excellent English communication skills</div> 🗯</li>
     <li>👷‍♂️ <div>Employers include <a href="https://quickspin.com/">[Quickspin]</a>, <a href="https://www.fatshark.se">[Fatshark]</a> & <a href="https://avalanchestudios.com/">[Expansive Worlds]</a></div> 👷‍♂️</li>
 </ul>
