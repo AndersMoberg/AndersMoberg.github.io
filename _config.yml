@@ -21,11 +21,9 @@
 title: Anders O.H Moberg
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I threw this blog together really quickly lmao
+  welcome to my web zone
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://a-moberg.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

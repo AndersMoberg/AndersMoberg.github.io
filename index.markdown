@@ -52,6 +52,10 @@ layout: page
     <li><b><a href="https://github.com/AndersMoberg">Github</a></b></li>
 </ul>
 <hr class="small"/>
-<a href="https://soundcloud.com/oh-mobes"><b>o.h mobes (music project)</b></a><br/>
-<a href="https://www.instagram.com/mistermoby"><b>photo posts</b></a><br/>
-<a href="https://twitter.com/MobesMobes"><b>bad posts</b></a>
+<a href="https://soundcloud.com/oh-mobes"><b>o.h mobes (music project)</b> on Soundcloud</a><br/>
+<a href="https://www.instagram.com/mistermoby"><b>photo posts</b> on Instagram</a><br/>
+<a href="https://twitter.com/MobesMobes"><b>bad posts</b> on Twitter</a>
+<hr class="small"/>
+<ul id="info">
+    <li><i>find <b>o.h mobes</b> DJ sets and other projects in the '<b>Blogs</b>' section</i></li>
+</ul>
