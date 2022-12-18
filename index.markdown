@@ -57,6 +57,7 @@ layout: page
 <a href="https://soundcloud.com/oh-mobes"><b>Soundcloud</b></a><br/>
 <a href="https://mastodon.social/@mobes">Mastodon</a><br/>
 <a href="https://cohost.org/mobes">Cohost</a><br/>
+Discord: <b>mobes#3074</b><br/>
 <hr class="small"/>
 <ul id="info">
     <li><i>find <b>o.h mobes</b> DJ sets and other projects in the '<b>Blog</b>' section</i></li>
