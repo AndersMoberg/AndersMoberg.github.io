@@ -37,7 +37,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - run: mv ./MOBESKartAddons ./_site/MOBESKartAddons
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
