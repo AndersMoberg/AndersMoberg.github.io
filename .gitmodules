@@ -1,0 +1,3 @@
+[submodule "MOBESKartAddons"]
+	path = MOBESKartAddons
+	url = https://github.com/AndersMoberg/MOBESKartAddons
