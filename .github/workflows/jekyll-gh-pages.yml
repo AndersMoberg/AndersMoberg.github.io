@@ -29,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          lfs: true
+          submodules: true
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -37,7 +37,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - run: cp -r ./MOBESKartAddons ./_site/MOBESKartAddons
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
