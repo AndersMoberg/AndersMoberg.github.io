@@ -53,12 +53,10 @@ layout: page
 </ul>
 <hr class="small"/>
 <a href="https://bsky.app/profile/oh-mobes.bsky.social"><b>Bluesky</b></a><br/>
-<a href="https://soundcloud.com/oh-mobes"><b>Soundcloud</b></a><br/>
+<a href="https://www.youtube.com/@o.hmobes"><b>DJ/mixtapes on Youtube</b></a><br/>
+<a href="https://soundcloud.com/oh-mobes"><b>DJ/mixtapes on Soundcloud</b></a><br/>
 <a href="https://www.instagram.com/mistermoby"><b>Instagram</b></a><br/>
 <a href="https://x.com/MobesMobes">Twitter</a><br/>
 <a href="https://mastodon.social/@mobes">Mastodon.Social</a><br/>
 Discord: <b>o.h_mobes</b><br/>
 <hr class="small"/>
-<ul id="info">
-    <li><i>find <b>o.h mobes</b> DJ sets and other projects in the '<b>Blog</b>' section</i></li>
-</ul>
