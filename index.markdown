@@ -41,9 +41,9 @@ layout: page
 </style>
 
 <ul id="info">
-    <li>🧰 <div>Software engineer in games and web with 7+ years of professional experience</div> 🧰</li>
+    <li>🧰 <div>Software engineer in games and web with a decade of professional experience</div> 🧰</li>
     <li>🗯 <div>Native Swedish speaker with excellent English communication skills</div> 🗯</li>
-    <li>👷‍♂️ <div>Employers include <a href="https://quickspin.com/">[Quickspin]</a>, <a href="https://www.fatshark.se">[Fatshark]</a> & <a href="https://avalanchestudios.com/">[Expansive Worlds]</a></div> 👷‍♂️</li>
+    <li>👷‍♂️ <div>Employers include <a href="https://quickspin.com/">Quickspin</a>, <a href="https://www.fatshark.se">Fatshark</a> & <a href="https://avalanchestudios.com/">Expansive Worlds</a></div> 👷‍♂️</li>
 </ul>
 <hr>
 <ul id="links">
@@ -52,12 +52,12 @@ layout: page
     <li><b><a href="https://github.com/AndersMoberg">Github</a></b></li>
 </ul>
 <hr class="small"/>
-<a href="https://twitter.com/MobesMobes"><b>Twitter</b></a><br/>
-<a href="https://www.instagram.com/mistermoby"><b>Instagram</b></a><br/>
+<a href="https://bsky.app/profile/oh-mobes.bsky.social"><b>Bluesky</b></a><br/>
 <a href="https://soundcloud.com/oh-mobes"><b>Soundcloud</b></a><br/>
-<a href="https://mastodon.social/@mobes">Mastodon</a><br/>
-<a href="https://cohost.org/mobes">Cohost</a><br/>
-Discord: <b>mobes#3074</b><br/>
+<a href="https://www.instagram.com/mistermoby"><b>Instagram</b></a><br/>
+<a href="https://x.com/MobesMobes">Twitter</a><br/>
+<a href="https://mastodon.social/@mobes">Mastodon.Social</a><br/>
+Discord: <b>o.h_mobes</b><br/>
 <hr class="small"/>
 <ul id="info">
     <li><i>find <b>o.h mobes</b> DJ sets and other projects in the '<b>Blog</b>' section</i></li>
