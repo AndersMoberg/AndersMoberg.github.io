@@ -16,7 +16,6 @@ so with that in the back-view mirror: what i'm working on at current time is "pa
 it's boring work, but i feel strongly that i need to do it. this backlog has ruminated to an extreme amount of sogginess within my skull. i will do what i do best, and turn myself into a recluse goblin for the foreseable future. my spirit's are fairly high these days, and i'm so happy that i've got enough space to just do this now.
 
 ![Obsidian node graph](/assets/2025-03-23.png)
-***(Obsidian** node graph where each node represents a file)*
 
 BUT! i've not completely stopped creative output. **i have actually been doing dj sets and mixtapes ever since**. you can find them on [**Youtube**](https://www.youtube.com/@o.hmobes) and/or
 [**Soundcloud**](https://soundcloud.com/oh-mobes). beyond some one-off sets from time to time, i'll be performing at a unannounced online event this summer, so keep your eyes out for that.
